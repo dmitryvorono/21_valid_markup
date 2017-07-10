@@ -1,6 +1,9 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+This project demonstrate the markup validity:
+
+- [W3C Markup Validation Service](https://validator.w3.org) - No errors or warnings;
+- [YSlow](http://yslow.org/) - Grade B
 
 # Project Goals
 
